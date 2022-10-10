@@ -27,4 +27,4 @@ pacman -S mingw-w64-x86_64-gcc mingw-w64-x86_64-gdb
 /path/to/java helloworld.java
 
 #### C++:
-/path/to/g++ -o hellowlrd helloworld.cpp && ./helloworld.exe
+/path/to/g++ -o hellowolrd helloworld.cpp && ./helloworld.exe
