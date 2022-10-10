@@ -1,28 +1,28 @@
 # hello-world
 Hello World!
 
-### REQUIREMENTS
-####Python:
+## REQUIREMENTS
+###Python:
 Python 3.0 or above
 
-####Java:
+###Java:
 JDK 8 or above
 
-####C++:
+###C++:
 MSYS2 (g++, gdb)
 
-####in MINGW32/64:
+###in MINGW32/64:
 ```
 pacman -S mingw-w64-x86_64-gcc mingw-w64-x86_64-gdb
 ```
-####default installation for gdb/gcc is at C:\msys64\mingw64\bin\
+###default installation for gdb/gcc is at C:\msys64\mingw64\bin\
 
 ## RUN PROGRAM
-####Python:
+###Python:
 /path/to/python helloworld.py
 
-#####Java:
+###Java:
 /path/to/java helloworld.java
 
-####C++:
+###C++:
 /path/to/g++ -o hellowlrd helloworld.cpp && ./helloworld.exe
