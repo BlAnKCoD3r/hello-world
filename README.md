@@ -1,6 +1,8 @@
 # hello-world
 Hello World!
 
+-
+
 ## REQUIREMENTS
 #### Python:
 Python 3.0 or above
@@ -8,6 +10,7 @@ Python 3.0 or above
 #### Java:
 JDK 8 or above
 
+### ###
 #### C++:
 MSYS2 (g++, gdb)
 
@@ -16,6 +19,9 @@ MSYS2 (g++, gdb)
 pacman -S mingw-w64-x86_64-gcc mingw-w64-x86_64-gdb
 ```
 #### default installation for gdb/gcc is at C:\msys64\mingw64\bin\
+### ###
+
+-
 
 ## RUN PROGRAM
 #### Python:
