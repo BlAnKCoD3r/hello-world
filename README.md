@@ -1,5 +1,6 @@
 # hello-world
 Hello World!
+The three provided applications, in C++, Java, and Python, all print out "Hello World!"
 
 ## REQUIREMENTS
 #### Python:
@@ -8,7 +9,6 @@ Python 3.0 or above
 #### Java:
 JDK 8 or above
 
-### ###
 #### C++:
 MSYS2 (g++, gdb)
 
@@ -21,10 +21,10 @@ pacman -S mingw-w64-x86_64-gcc mingw-w64-x86_64-gdb
 
 ## RUN PROGRAM
 #### Python:
-/path/to/python helloworld.py
+```/path/to/python helloworld.py```
 
 #### Java:
-/path/to/java helloworld.java
+```/path/to/java helloworld.java```
 
 #### C++:
-/path/to/g++ -o hellowolrd helloworld.cpp && ./helloworld.exe
+```/path/to/g++ -o helloworld helloworld.cpp && ./helloworld.exe```
